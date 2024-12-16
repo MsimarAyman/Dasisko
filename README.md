@@ -1,4 +1,14 @@
-Dasisko
+Hi 👋, I'm Dasisko 👋
+👨‍💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React, and Node.js.
+🎨 Frontend: Strong in HTML5, CSS3, SASS, SCSS, JavaScript, Tailwind CSS, Bootstrap, Material UI, Ant Design, Chakra UI, Next.js and React.js.
+🚀 Backend: Experience with Express.js, Node.js, and MongoDB for building RESTful APIs.
+🔄 State Management: Knowledgeable in Redux for large-scale React applications.
+📱 UI/UX: Familiar with Figma and Adobe XD for design.
+📝 Version Control: Git/GitHub proficiency.
+☁️ Deployment: Experienced in deploying on AWS, Heroku, Hostinger and Netlify.
+✔️ Testing: Familiar with Jest, Mocha, and React Testing Library.
+🔍 Problem-solving: Strong debugging skills.
+💬 Communication: Effective team collaboration.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aymanrajawi.mssimar/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dasisko_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayman-msimar-45a78825a/) 
 
